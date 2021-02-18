@@ -5,6 +5,9 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=saiteja-05)
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<saiteja-05>&theme=<THEME_NAME>" />
+
+
 <!--
 **saiteja-05/saiteja-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
