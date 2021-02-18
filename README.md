@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=saiteja-05&show_icons=true&theme=vue)
 
 
 
