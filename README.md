@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja-05)](https://github.com/saiteja-05/github-readme-stats)
 
 
-![Saiteja's GitHub stats](https://github-readme-stats.vercel.app/api?username=saiteja-05&show_icons=true&theme=radical)
 
 
 
