@@ -5,6 +5,8 @@
 
 you can also find me on
 
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 <img src="https://www.linkedin.com/in/user?username=saiteja05" />
 
 
