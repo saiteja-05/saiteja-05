@@ -3,6 +3,12 @@
 # Hello, folks! I'm Saiteja <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
+you can also find me on
+
+<img src="[YOUR_DOMAIN]/[METHOD]?username=[saiteja05]" />
+
+<img src="https://github-readme-linkedin.vercel.app/experience?username=saiteja05" />
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja-05)](https://github.com/saiteja-05/github-readme-stats)
