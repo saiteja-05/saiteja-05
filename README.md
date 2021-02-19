@@ -5,7 +5,7 @@
 
 you can also find me on
 
-<img src="https://github-readme-linkedin.vercel.app/experience?username=saiteja05" />
+<img src="https://www.linkedin.com/in/user?username=saiteja05" />
 
 
 
