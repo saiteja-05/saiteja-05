@@ -4,22 +4,7 @@
 
 
 
-
-<!-- Actual text -->
-
-You can find me on  [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-
-[2.2]: https://raw.githubusercontent.com/saiteja-05/saiteja-05/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-
-[2]: https://www.linkedin.com/in/saiteja05/
-
-<img src="https://www.linkedin.com/in/saiteja05" />
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/saiteja05/)
 
 
 
