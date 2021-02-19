@@ -5,9 +5,9 @@
 
 you can also find me on
 
-<img src="[YOUR_DOMAIN]/[METHOD]?username=[saiteja05]" />
+<img src="https://github-readme-linkedin.vercel.app/experience?username=" />
 
-<img src="https://github-readme-linkedin.vercel.app/experience?username=saiteja05" />
+
 
 
 
