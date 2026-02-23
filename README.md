@@ -10,9 +10,10 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently pursuing a **PG Diploma in Big Data Analytics** at CDAC, Pune
-- 💼 Previously worked at **Mavenir** & **Wipro**
-- 🌱 Learning **Big Data, Machine Learning & Artificial Intelligence**
+- 🎓 Completed **PG Diploma in Big Data Analytics** from Know-IT, CDAC Pune
+- 💼 Currently working at **Mavenir**
+- 🏢 Previously worked at **Wipro**
+- 🌱 Working with **Big Data, Machine Learning & Artificial Intelligence**
 - 👯 Open to **Data Analyst / Data Engineer** roles
 - 💬 Ask me about **Python | Machine Learning | Big Data | SQL**
 - 📫 Reach me at: **saiteja.n97@gmail.com**
