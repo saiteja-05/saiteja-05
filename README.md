@@ -1,62 +1,20 @@
+# Hello, folks! I'm Saiteja <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" />
 
+## 🌐 Find me on
 
-# Hello, folks! I'm Saiteja <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saiteja05/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/saiteja_n97)
 
+## 👨‍💻 About Me
 
+- 🔭 Currently pursuing a PG Diploma in Big Data Analytics at CDAC, Pune
+- 🌱 Learning Big Data, Machine Learning & Artificial Intelligence
+- 👯 Looking for Data Analyst / Data Engineer roles
+- 💬 Ask me about Python, Machine Learning & Big Data
+- 📫 Reach me at: saiteja.n97@gmail.com
 
+## 📊 GitHub Stats
 
-you can also find me on 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja-05&layout=compact&langs_count=8&theme=vue&hide_border=true&cache_seconds=1800)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saiteja05/) [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/saiteja_n97)
-
-
-
-
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja-05)](https://github.com/saiteja-05/github-readme-stats)
-
-
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=saiteja-05&show_icons=true&theme=vue)
-
-
-
-
-
-
-
-
-<!--
-**saiteja-05/saiteja-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently Purshuing PG diploma BigData Analytics course at CDAC(know-it) Pune
-- 🌱 I’m currently learning Bigdata,Machine Learning,Artificial intelligence 
-- 👯 I’m looking to work on the data analyst,data engineer roles...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently Purshuing PG diploma BigData Analytics course at CDAC(know-it) Pune
-- 🌱 I’m currently learning Big data,Machine Learning,Artificial intelligence 
-- 👯 I’m looking to work on the data analyst,data engineer roles...
-- 🤔 I’m looking for help to develop my overall skills in technical field
-- 💬 Ask me about anything related to Python/Machine Learning/Big Data
-- 📫 How to reach me: saiteja.n97@gmail.com
-- ⚡ Fun fact: ...
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=saiteja-05)
-
--->
-
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiteja-05&show_icons=true&theme=vue&hide_border=true&cache_seconds=1800)
